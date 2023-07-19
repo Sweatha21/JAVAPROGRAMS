@@ -5,7 +5,7 @@ public class Child extends Father {
 		Child s = new Child();
 		s.phone();
 		s.watch();
-		s.adi();
+		s.property();
 	}
 
 }
