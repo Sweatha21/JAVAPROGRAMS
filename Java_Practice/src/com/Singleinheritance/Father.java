@@ -7,8 +7,8 @@ public class Father {
 	 void watch() {
         System.out.println("Apple");
 	}
-	protected void adi() {
-		System.out.println("kombuadi,kaiadi,karandiadi,serupadi,kattadi,kaaladi");
+	protected void property() {
+		System.out.println("Land");
 
 	}
 
